@@ -1,0 +1,617 @@
+@media(max-width: 1600px){
+    .herobanner h1{
+        font-size: 55px;
+        line-height: 60px;
+    }
+    .bannerimg{
+        max-width: 290px;
+    }
+    .herobanner .row{
+        padding-top: 80px;
+        padding-bottom: 80px;
+    }
+    .experienceSection h2 {
+        font-size: 48px;
+        line-height: 60px;
+    }
+}
+@media(max-width: 1439px){
+    ul li img{
+        max-width: 190px;
+    }
+}
+@media(max-width: 1399px){
+    .herobanner .bgimg {
+        position: absolute;
+        height: 100%;
+        bottom: 0;
+        left: 0;
+        z-index: -1;
+        opacity: 0.1;
+        max-width: 100%;
+    }
+    ul li img{
+        max-width: 170px;
+    }
+    .logo{
+        max-width: 115px;
+
+    }
+    .bannerimg {
+        max-width: 250px;
+    }
+    .herobanner h1 {
+        font-size: 45px;
+        line-height: 45px;
+        max-width: 485px;
+    }
+    .herobanner .row {
+        padding-top: 70px;
+        padding-bottom: 70px;
+    }
+    .subscriptionBox h2 {
+        font-size: 45px;
+    }
+    .boxsection h3 {
+        font-size: 45px;
+        line-height: 60px;
+    }
+    .boxsection p {
+        font-size: 17px;
+        line-height: 25px;
+    }
+    .boxsection img {
+        max-width: 260px;
+    }
+    .boxsection h4 {
+        font-size: 35px;
+        line-height: 50px;
+    }
+    .imgsection button {
+        font-size: 15px;
+        line-height: 16px;
+        padding: 15px 90px;
+    }
+    .aboutSection img {
+        max-width: 280px;
+    }
+    .aboutSection h2 {
+        font-size: 45px;
+        line-height: 55px;
+    }
+    .aboutSection p {
+        font-size: 15px;
+        line-height: 23px;
+    }
+    .aboutSection {
+        padding: 0px 80px;
+    }
+    .experienceSection .experienceCon {
+        max-width: 81%;
+    }
+    .experienceSection h2 {
+        font-size: 39px;
+        line-height: 50px;
+        margin-top: 12px;
+    }
+    .experienceSection p {
+        font-size: 17px;
+        line-height: 22px;
+    }
+    .experienceSection strong {
+        font-size: 17px;
+        line-height: 22px;
+    }
+    .footerSection p {
+        padding-top: 10px;
+        font-size: 14px;
+        line-height: 12px;
+    }
+}
+@media(max-width: 1199px){
+    .herobanner .bgimg {
+        position: absolute;
+        height: 100%;
+        bottom: 0;
+        left: 0;
+        z-index: -1;
+        opacity: 0.1;
+        max-width: 100%;
+    }
+    ul li img {
+        max-width: 155px;
+    }
+    .logo {
+        max-width: 100px;
+    }
+    .bannerimg {
+        max-width: 235px;
+    }
+    .herobanner .row {
+        padding-top: 60px;
+        padding-bottom: 60px;
+    }
+    .herobanner h1 {
+        font-size: 40px;
+        line-height: 42px;
+    }
+    .herobanner p {
+        font-size: 17px;
+        line-height: 20px;
+    }
+    .subscriptionBox h2 {
+        font-size: 40px;
+        line-height: 45px;
+    }
+    .subscriptionBox p {
+        font-size: 16px;
+        line-height: 20px;
+    }
+    .subscriptionBox form input {
+        padding: 8px;
+    }
+    .subscriptionBox {
+        padding: 76px 120px;
+    }
+    .boxsection h3 {
+        font-size: 42px;
+        line-height: 50px;
+    }
+    .boxsection p {
+        font-size: 14px;
+        line-height: 23px;
+        margin-bottom: 30px;
+    }
+    .boxsection img {
+        max-width: 245px;
+    }
+    .imgsection span {
+        font-size: 15px;
+        line-height: 20px;
+        letter-spacing: 0.1em;;
+    }
+    .boxsection h4 {
+        font-size: 30px;
+        line-height: 40px;
+    }
+    .boxsection .imgsectionDwon p {
+        font-size: 15px;
+        line-height: 20px;
+    }
+    .boxsection .imgsection p {
+        font-size: 15px;
+        line-height: 20px;
+    }
+    .imgsection button {
+        font-size: 14px;
+        line-height: 13px;
+        padding: 13px 80px;
+    }
+    .imgsectionDwon button {
+        font-size: 14px;
+        line-height: 13px;
+        padding: 14px 30px;
+    }
+    .aboutSection img {
+        max-width: 250px;
+    }
+    .aboutSection h2 {
+        font-size: 40px;
+        line-height: 45px;
+    }
+    .aboutSection p {
+        font-size: 14px;
+        line-height: 20px;
+    }
+    .experienceImg {
+        max-width: 120px;
+    }
+    .experienceSection h2 {
+        font-size: 35px;
+        line-height: 45px;
+        margin-top: 9px;
+    }
+    .experienceSection p {
+        font-size: 14px;
+        line-height: 20px;
+    }
+    .experienceSection strong {
+        font-size: 14px;
+        line-height: 15px;
+    }
+    .experienceSection img {
+        max-width: 150px;
+    }
+    .footerSection p {
+        padding-top: 10px;
+        font-size: 11px;
+        line-height: 5px;
+    }
+
+}
+@media(max-width: 991px){
+    .herobanner .bgimg {
+        position: absolute;
+        height: 100%;
+        bottom: 0;
+        left: 0;
+        z-index: -1;
+        opacity: 0.1;
+        max-width: 100%;
+    }
+    ul li img {
+        max-width: 140px;
+    }
+    .logo {
+        max-width: 90px;
+    }
+    .bannerimg {
+        max-width: 215px;
+    }
+    .herobanner h1 {
+        font-size: 32px;
+        line-height: 38px;
+        max-width: 350px;
+    }
+    .herobanner p {
+        font-size: 15px;
+        line-height: 18px;
+    }
+    .herobanner .row {
+        padding-top: 40px;
+        padding-bottom: 40px;
+    }
+    .subscriptionBox h2 {
+        font-size: 34px;
+        line-height: 37px;
+    }
+    .subscriptionBox {
+        padding: 70px 70px;
+    }
+    .subscriptionBox p {
+        font-size: 14px;
+        line-height: 17px;
+    }
+    .subscriptionBox form button {
+        font-weight: 400;
+        font-size: 17px;
+        line-height: 25px;
+        padding: 10px 40px;
+        display: flex;
+        gap: 8px;
+    }
+    .boxsection h3 {
+        font-size: 30px;
+        line-height: 40px;
+    }
+    .boxsection p {
+        font-size: 14px;
+        line-height: 20px;
+        margin-bottom: 20px;
+    }
+    .boxsection img {
+        max-width: 220px;
+    }
+    .boxsection h4 {
+        font-size: 20px;
+        line-height: 35px;
+    }
+    .imgsection span {
+        font-size: 10px;
+        line-height: 17px;
+        letter-spacing: 0.1em;
+    }
+    .aboutSection img {
+        max-width: 220px;
+    }
+
+    .aboutSection h2 {
+        font-size: 24px;
+        line-height: 30px;
+    }
+    .aboutSection p {
+        font-size: 13px;
+        line-height: 16px;
+    }
+    .experienceImg {
+        max-width: 110px;
+    }
+    .experienceSection h2 {
+        font-size: 30px;
+        line-height: 35px;
+        margin-top: 8px;
+    }
+    .experienceSection p {
+        font-size: 13px;
+        line-height: 18px;
+    }
+    .footerSection p {
+        padding-top: 10px;
+        font-size: 10px;
+        line-height: 0px;
+    }
+    .jeepsection {
+        padding: 50px 39px;
+    }
+    .imgsection button {
+        font-size: 16px;
+        line-height: 13px;
+        padding: 15px 63px;
+    }
+
+}
+@media(max-width: 767px){
+    .herobanner .bgimg {
+        position: absolute;
+        height: 100%;
+        bottom: 0;
+        left: 0;
+        z-index: -1;
+        opacity: 0.1;
+        max-width: 100%;
+    }
+    ul li img {
+        max-width: 100px;
+    }
+    .logo {
+        max-width: 65px;
+    }
+    .herobanner h1 {
+        font-size: 21px;
+        line-height: 25px;
+        max-width: 343px;
+    }
+    .bannerimg {
+        max-width: 150px;
+    }
+    .herobanner p {
+        font-size: 11px;
+        line-height: 14px;
+    }
+    .subscriptionBox h2 {
+    font-size: 30px;
+    line-height: 32px;
+    max-width: 270px;
+    }
+.subscriptionBox p {
+    font-size: 12px;
+    line-height: 15px;
+    }
+    .subscriptionBox {
+        padding: 40px 70px;
+    }
+    .subscriptionBox form input {
+        padding: 6px;
+        font-size: 15px;
+    }
+    .subscriptionBox form button {
+        font-size: 15px;
+        line-height: 16px;
+        padding: 9px 35px;
+        margin-top: 10px;
+    }
+    .jeepsection {
+        padding: 50px 50px;
+    }
+    .boxsection span {
+        font-size: 14px;
+        line-height: 20px;
+    }
+    .boxsection h3 {
+        font-size: 25px;
+        line-height: 30px;
+    }
+    .boxsection p {
+        font-size: 12px;
+        line-height: 15px;
+        margin-bottom: 10px;
+    }
+    .boxsection img {
+        max-width: 170px;
+    }
+    .boxsection h4 {
+        font-size: 19px;
+        line-height: 20px;
+    }
+    .boxsection span {
+        font-size: 10px;
+        line-height: 17px;
+    }
+    .boxsection .imgsection p {
+        font-size: 11px;
+        line-height: 14px;
+    }
+    .imgsection button {
+        font-size: 12px;
+        line-height: 11px;
+        padding: 10px 52px;
+    }
+    .boxsection .imgsectionDwon p {
+        font-size: 11px;
+        line-height: 17px;
+    }
+    .imgsectionDwon button {
+        font-size: 11px;
+        line-height: 13px;
+        padding: 11px 30px;
+    }
+    .aboutSection img {
+        max-width: 155px;
+    }
+    .aboutSection p {
+        font-size: 9px;
+        line-height: 13px;
+    }
+    .aboutSection h2 {
+        font-size: 16px;
+        line-height: 19px;
+    }
+    .experienceImg {
+        max-width: 100px;
+    }
+    .experienceSection h2 {
+        font-size: 26px;
+        line-height: 30px;
+    }
+    .experienceSection p {
+        font-size: 11px;
+        line-height: 15px;
+    }
+    .experienceSection strong {
+        font-size: 11px;
+        line-height: 12px;
+    }
+    .experienceSection img {
+        max-width: 120px;
+    }
+    .logo {
+        max-width: 66px;
+    }
+    .herobanner h1 {
+        font-size: 21px;
+        line-height: 30px;
+    }
+    .herobanner p {
+        font-size: 11px;
+        line-height: 17px;
+    }
+    element.style {
+        max-width: 100%;
+    }
+    .subscriptionBox h2 {
+        font-size: 26px;
+        line-height: 29px;
+    }
+
+
+
+
+}
+@media(max-width: 575px){
+
+
+    ul li img {
+        max-width: 138px;
+    }
+    .herobanner h1 {
+        font-size: 27px;
+        line-height: 33px;
+        margin: auto;
+    }
+    .subscriptionBox h2 {
+        font-size: 33px;
+        line-height: 33px;
+    }
+    .subscriptionBox p {
+        font-size: 14px;
+        line-height: 15px;
+    }
+
+    .spm{
+        display: none;
+    }
+    .bannerimg {
+        max-width: 100%;
+        margin-top: 20px;
+    }
+    .herobanner .bgimg {
+        display: none;
+    }
+
+    .lcenter{
+        text-align: center;
+    }
+    .logo {
+        max-width: 100px;
+    }
+    .subscriptionBox form button {
+        padding: 10px 90px;
+    }
+    .boxsection p {
+        font-size: 11px;
+    }
+    .boxsection h3 {
+        font-size: 30px;
+        line-height: 30px;
+    }
+    .boxsection span {
+        font-size: 15px;
+        line-height: 17px;
+    }.boxsection p {
+        font-size: 14px;
+    }
+    .boxsection img {
+        max-width: 100%;
+    }
+    .bfg{
+        display: none;
+    }
+    .boxsection h4 {
+        font-size: 29px;
+        line-height: 20px;
+        margin: 15px 51px;
+    }
+    .boxsection .imgsection p {
+        font-size: 16px;
+        line-height: 17px;
+        text-align: center;
+    }
+    .boxsection span {
+        font-size: 15px;
+        line-height: 13px;
+        margin: 0px 51px;
+        padding-top: 20px;
+    }
+    .imgsection button {
+        font-size: 29px;
+        line-height: 14px;
+        padding: 13px 131px;
+    }
+    .experienceSection h2 {
+        font-size: 38px;
+        line-height: 47px;
+    }
+    .experienceSection p {
+        font-size: 16px;
+        line-height: 20px;
+    }
+    .experienceSection strong {
+        font-size: 17px;
+        line-height: 12px;
+    }
+    .experienceSection img {
+        max-width: 140px;
+    }
+    .footerSection p {
+        padding-top: 11px;
+        font-size: 12px;
+        line-height: 0px;
+    }
+    .aboutSection {
+        text-align: center;
+    }
+    .aboutSection img {
+        max-width: 100%;
+    }
+    .aboutSection h2 {
+        font-size: 28px;
+        line-height: 34px;
+    }
+    .aboutSection p {
+        font-size: 13px;
+        line-height: 16px;
+    }
+    
+
+}
+
+@media (max-width: 480px) {
+    ul li img{
+        max-width: 140px;
+    }
+    .logo{
+        max-width: 140px;
+
+    }
+   
+  }
